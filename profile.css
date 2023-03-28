@@ -479,7 +479,7 @@
   font-style: normal;
   font-weight: 600;
 }
-.profile-navlink {
+.profile-link {
   display: contents;
 }
 .profile-component2 {
@@ -753,7 +753,7 @@
   height: 24px;
   margin-right: var(--dl-space-space-unit);
 }
-.profile-link {
+.profile-link1 {
   opacity: 0.8;
   text-decoration: none;
 }
@@ -770,7 +770,7 @@
   height: 24px;
   margin-right: var(--dl-space-space-unit);
 }
-.profile-link1 {
+.profile-link2 {
   opacity: 0.8;
   text-decoration: none;
 }
